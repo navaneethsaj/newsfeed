@@ -1,4 +1,4 @@
-## News in short
+## NewsFeed
 
 [Get from playstore](https://play.google.com/store/apps/details?id=com.newsfeed.asus.newsfeed&hl=en)
 
