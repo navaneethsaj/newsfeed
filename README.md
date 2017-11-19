@@ -1,6 +1,6 @@
 ## NewsFeed
 
-![Logo](https://github.com/navaneethsaj/newsfeed/blob/master/11e0d141-6fa5-4960-85f6-5b16d893a547.png)
+![](https://github.com/navaneethsaj/newsfeed/blob/master/11e0d141-6fa5-4960-85f6-5b16d893a547.png)
 
 [Get from playstore](https://play.google.com/store/apps/details?id=com.newsfeed.asus.newsfeed&hl=en)
 
