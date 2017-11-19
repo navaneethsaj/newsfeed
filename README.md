@@ -1,6 +1,8 @@
 #NewsFeed
 ## News in short
 
+[NewsFeed](https://play.google.com/store/apps/details?id=com.newsfeed.asus.newsfeed&hl=en)
+
 * Get breaking news headlines, and search for articles from over 5,000 news sources.
 * Access worldwide news.
 * Specially optimized for INDIA,USA,UK,AUSTRALIA.
@@ -18,4 +20,4 @@
 > ___Nothing is white nothing is black everything is grey___
 
 NewsFeed is powered by Newsapi.
-[NewsFeeds](https://newsapi.org/)
+[Newsapi](https://newsapi.org/)
