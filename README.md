@@ -1,7 +1,6 @@
-#NewsFeed
 ## News in short
 
-[NewsFeed](https://play.google.com/store/apps/details?id=com.newsfeed.asus.newsfeed&hl=en)
+[Get from playstore](https://play.google.com/store/apps/details?id=com.newsfeed.asus.newsfeed&hl=en)
 
 * Get breaking news headlines, and search for articles from over 5,000 news sources.
 * Access worldwide news.
